@@ -92,7 +92,8 @@ I welcome opportunities to exchange ideas, contribute to impactful projects, and
 
 
 <p align="center">
-  <a href="https://github.com/VENCYUSERNAME?tab=repositories&q=&type=pinned">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=VENCYUSERNAME&repo=RepoName1&repo=RepoName2&theme=dark" alt="Pinned Projects" />
+  <a href="https://github.com/vency-ai/RAG-Workflow-System">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vency-ai&repo=RAG-Workflow-System&theme=dark" alt="RAG Workflow System" />
   </a>
+
 </p>
